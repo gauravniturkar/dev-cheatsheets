@@ -235,4 +235,4 @@ If something's wrong, missing, or could be explained better — PRs are welcome.
 
 ---
 
-*Last updated: 2025*
+*Last updated: 2026*
